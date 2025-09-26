@@ -1,0 +1,33 @@
+# Unity
+/Library/
+/Temp/
+/Obj/
+/Builds/
+/UserSettings/
+/UnityPackageManager/
+/UnityGenerated/
+
+# Игнорировать файлы решения и проекта IDE
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.sln.docstates
+*.user
+*.userprefs
+*.vspscc
+*.vssscc
+*.vbproj
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# Временные файлы
+*.stacktrace
+*.log
+
+# Скрытые файлы ОС
+.DS_Store
+Thumbs.db
